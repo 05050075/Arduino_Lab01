@@ -6,43 +6,8 @@ void setup()
 void loop()
 {
   digitalWrite(9, HIGH);
-  delay(100); 
+  delay(1000); 
   digitalWrite(9, LOW);
-  delay(100); 
-  digitalWrite(9, HIGH);
-  delay(100); 
-  digitalWrite(9, LOW);
-  delay(100); 
-  digitalWrite(9, HIGH);
-  delay(100); 
-  digitalWrite(9, LOW);
-  delay(100); 
-  
-  
-  digitalWrite(9, HIGH);
-  delay(300); 
-  digitalWrite(9, LOW);
-  delay(100); 
-  digitalWrite(9, HIGH);
-  delay(300); 
-  digitalWrite(9, LOW);
-  delay(100); 
-  digitalWrite(9, HIGH);
-  delay(300); 
-  digitalWrite(9, LOW);
-  delay(100);
- 
-  
-  digitalWrite(9, HIGH);
-  delay(100); 
-  digitalWrite(9, LOW);
-  delay(100); 
-  digitalWrite(9, HIGH);
-  delay(100); 
-  digitalWrite(9, LOW);
-  delay(100); 
-  digitalWrite(9, HIGH);
-  delay(100); 
-  digitalWrite(9, LOW);
-  delay(100); 
+  delay(1000); 
+
 }
